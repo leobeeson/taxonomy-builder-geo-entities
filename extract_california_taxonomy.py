@@ -57,10 +57,5 @@ with open(neighbourhoods, "r") as file_input:
             neighbourhoods_per_city[city].add(neighbourhood)
         line_count += 1
 
-neighbourhoods_per_city_json = json.dump(
-    neighbourhoods_per_city, 
-    default=lambda x: list(x) if isinstance(x, set) else x
-    )
-
 with open("data/neighbourhoods_by_city_in_california.json", "w") as output_file:
     json.dump(neighbourhoods_per_city, output_file, default=lambda x: list(x) if isinstance(x, set) else x)
