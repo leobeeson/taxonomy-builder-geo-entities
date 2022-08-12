@@ -18,8 +18,7 @@ with open(cities_filepath, "r") as file_input:
 prefix = "Neighborhoods in "
 suffix = ", California"
 
-
 clean_cities = []
 for city in cities:
     city = city.removeprefix(prefix)
-    city = city[len(suffix)]
+    city = city[:len(suffix)]
