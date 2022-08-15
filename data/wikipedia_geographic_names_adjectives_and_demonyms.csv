@@ -1,0 +1,923 @@
+﻿Dimension,Name,Adjective,Demonym
+Continent,Afro-Eurasia,Afro-Eurasian,Afro-Eurasians
+Continent,Africa,African,Africans
+Continent,Eurasia,Eurasian,Eurasians
+Continent,Asia,Asian,Asians
+Continent,Middle East,Middle Eastern,Middle Easterners
+Continent,Europe,European,Europeans
+Continent,America,American,Americans
+Continent,North America,North American,North Americans
+Continent,Caribbean,Caribbean,Caribbeans
+Continent,West Indies,West Indian,West Indians
+Continent,Central America,Central American,Central Americans
+Continent,Northern America,Northern American,Northern Americans
+Continent,South America,South American,South Americans
+Continent,Antarctica,Antarctic,Antarcticans
+Continent,Oceania,Oceanian,Oceanians
+Continent,Australasia,Australasian,Australasians
+Continent,Australiaa,Australian,Australians
+Continent,Zealandia,Zealandian,Zealandians
+Continent,Pacific Islands,Pacific Islands,Pacific Islanders
+Region-Africa,Cyrenaica,Cyrene,Cyrenes
+Region-Africa,Darfur,Darfur,Darfuris
+Region-Africa,Maghreb,Maghreb,Maghrebis
+Region-Africa,Mediterranean,Mediterranean,
+Region-Africa,Nile River,Nilotic,
+Region-Africa,Nubia,Nubian,Nubians
+Region-Africa,Sahara,Saharan,Sahrawi
+Region-Africa,Zanzibar,Zanzibar,Zanzibaris
+Region-America,Acadia,Acadian,Acadians
+Region-America,"Acadiana, Cajun Country",Acadian,Cajuns
+Region-America,Aleutian Islands,"Aleut, Aleutian","Aleuts, Aleutians"
+Region-America,Amazon river and Amazon region,Amazonian,
+Region-America,Andes,Andean,
+Region-America,Antilles,Antillean,Antilleans
+Region-America,Appalachia,Appalachian,
+Region-America,Caribbean,Caribbean,
+Region-America,Cascadia,Cascadian,Cascadians
+Region-America,Ceara,Cearense,Cearenses
+Region-America,Guiana,Guianan,Guianans
+Region-America,Long Island,Long Island,Long Islanders
+Region-America,Maritimes,Maritime,Maritimers
+Region-America,Minas Gerais,Mineiro,Mineiros
+Region-America,New England,New England,New Englanders
+Region-America,Patagonia,Patagonian,Patagonians
+Region-America,Parana (state),Paranaense,Paranaenses
+Region-America,Rio de Janeiro (state),Fluminense,Fluminenses
+Region-America,Rio Grande do Sul,"Sul-rio-grandense, Gaúcho",Gaúchos
+Region-America,St. Lawrence River,Laurentian,
+Region-America,Santa Catarina,"Catarinense, Barriga-verde","Catarinenses, Barrigas-verdes"
+Region-America,São Paulo (state),Paulista,Paulistas
+Region-America,South (U.S.),Southern,Southerners
+Region-America,Upper Peninsula of Michigan,,Yoopers
+Region-America,West Indies,West Indian,West Indians
+Region-Asia,Bali,Balinese,Balinese
+Region-Asia,"Balochistan, Baluchistan",,"Balochi, Baluchi"
+Region-Asia,Bangsamoro,,Moro
+Region-Asia,Bengal,Bengali,Bengalis
+Region-Asia,Bicol,"Bicol, Bicolano",Bicolanos
+Region-Asia,Bihar,Bihari,Biharis
+Region-Asia,Borneo,Bornean,Borneans
+Region-Asia,"Caucasus, Caucasia","Caucasian, Caucasic",Caucasians
+Region-Asia,Central Asia,Central Asian,Central Asians
+Region-Asia,Flores,Floresian,
+Region-Asia,Gujarat,Gujarati,Gujaratis
+Region-Asia,Himalayas,Himalayan,
+Region-Asia,Hokkaidō,,Dosanko
+Region-Asia,Indochina,Indochinese,Indochinese
+Region-Asia,"Java, Pasundan","Javanese, Sundanese","Javanese, Sundanese"
+Region-Asia,Kashmir,Kashmiran,Kashmiris
+Region-Asia,Korea,Korean,Koreans
+Region-Asia,Kumaon,Kumaoni,"Kumaiye, Kumaonis"
+Region-Asia,Luzon,Luzones,Luzones
+Region-Asia,Melanesia,Melanesian,Melanesians
+Region-Asia,Moluccas,Moluccan,Moluccans
+Region-Asia,Mindanao,Mindanaoan,Mindanaoans
+Region-Asia,Negros,,"Negrenses, Negrosanons"
+Region-Asia,"Okinawa, Ryukyu Islands","Okinawan, Ryukyuan","Okinawans, Ryukyuans"
+Region-Asia,Punjab,Punjabi,Punjabis
+Region-Asia,Siberia,Siberian,Siberians
+Region-Asia,Indian subcontinent,Subcontinental,Desis
+Region-Asia,Sulawesi,Sulawesian,Sulawesians
+Region-Asia,Sumatra,Sumatran,Sumatrans
+Region-Asia,Sylhet,Sylheti,Sylhetis
+Region-Asia,Tibet,Tibetan,Tibetans
+Region-Asia,Visayas,Visayan,Visayans
+Region-Middle_East,Arabia,"Arab, Arabian","Arabs, Arabians"
+Region-Middle_East,Galilee,Galilean,Galileans
+Region-Middle_East,"Judea, Judaea","Judean, Judaean","Judeans, Judaeans"
+Region-Middle_East,Levant,Levantine,Levantines
+Region-Middle_East,Kurdistan,Kurdish,Kurds
+Region-Middle_East,Samaria,Samaritan,Samaritans
+Region-Oceania,Antipodes,Antipodean,Antipodeans
+Region-Oceania,Melanesia,Melanesian,Melanesians
+Region-Oceania,Micronesia,Micronesian,Micronesians
+Region-Oceania,Polynesia,Polynesian,Polynesians
+Region-Oceania,Tahiti,Tahitian,Tahitians
+Region-Europe,Alps,Alpine,
+Region-Europe,Alsace,Alsatian,Alsatians
+Region-Europe,Andalusia,Andalusian,Andalusians
+Region-Europe,Apennines,Apennine,
+Region-Europe,Apulia,Apulian,Apulians
+Region-Europe,Aragon,Aragonese,Aragonese
+Region-Europe,Asturias,Asturian,Asturians
+Region-Europe,Balkans,Balkan,
+Region-Europe,Baltic region,Baltic,Balts
+Region-Europe,Bavaria,Bavarian,Bavarians
+Region-Europe,Basque Country,Basque,Basques
+Region-Europe,Bessarabia,Bessarabian,Bessarabians
+Region-Europe,"Black Sea region, Chornomoriia","Black Sea, Chornomorian",Black Sea Cossacks
+Region-Europe,Bohemia,Bohemian,Bohemians
+Region-Europe,"Boyko region, Boikivshchyna",Boyko,Boykos
+Region-Europe,"Bukovina, Bukovyna","Bukovinian, Bukovinan","Bukovinians, Bukovinans"
+Region-Europe,Brittany,Breton,Bretons
+Region-Europe,Burgundy,Burgundian,Burgundians
+Region-Europe,Calabria,Calabrian,Calabrians
+Region-Europe,Cambridge,Cantabrigian,Cantabrigians
+Region-Europe,Campania,Campanian,Campanians
+Region-Europe,Cantabria,Cantabrian,Cantabrians
+Region-Europe,Canterbury,Cantuarian,Cantuarians
+Region-Europe,Carinthia,Carinthian,Carinthians
+Region-Europe,Carpathians,Carpathian,
+Region-Europe,Castile,Castilian,Castilians
+Region-Europe,Catalonia,Catalan,Catalans
+Region-Europe,"Caucasus, Caucasia","Caucasian, Caucasic",Caucasians
+Region-Europe,Ciscarpathia,Ciscarpathian,
+Region-Europe,Cornwall,Cornish,Cornish
+Region-Europe,Corsica,Corsican,Corsicans
+Region-Europe,Courland,Curonian,Curonians
+Region-Europe,Crete,Cretan,Cretans
+Region-Europe,Crimea,Crimean,Crimeans
+Region-Europe,Cumbria,Cumbrian,Cumbrians
+Region-Europe,Dalmatia,Dalmatian,Dalmatians
+Region-Europe,Danube River,Danubian,
+Region-Europe,Dnieper Ukraine,Dniprian,Dniprians
+Region-Europe,Extremadura,Extremaduran,Extremadurans
+Region-Europe,Fife,Fife,Fifers
+Region-Europe,Flanders,Flemish,Flemings
+Region-Europe,Franconia,Franconian,Franconians
+Region-Europe,"Friesland, Frisian Islands","Friesian, Frisian","Friesians, Frisians"
+Region-Europe,Galicia,Galician,Galicians
+Region-Europe,Galloway,Gallovidian,Gallovidians
+Region-Europe,Gascony,Gascon,Gascons
+Region-Europe,Gotland,Gotland,Gotlanders
+Region-Europe,Gozo,Gozitan,Gozitans
+Region-Europe,Harrow,Harrovian,Harrovians
+Region-Europe,Hesse,Hessian,Hessians
+Region-Europe,Holstein,Holsteinian,Holsteiners
+Region-Europe,"Hutsul region, Hutsulshchyna",Hutsul,Hutsuls
+Region-Europe,Iberian Peninsula,Iberian,Iberians
+Region-Europe,Istria,Istrian,Istrians
+Region-Europe,Jutland,Jutland,Jutlanders
+Region-Europe,Karelia,Karelian,Karelians
+Region-Europe,Kosovo and Methohija,"Kosovar, Kosovan","Kosovars, Kosovans"
+Region-Europe,Kuban,Kuban,"Kubanians, Kuban Cossacks"
+Region-Europe,"Left-bank Ukraine, Little Russia, Hetmanshchyna, Hetmania","Ukrainian, Little Russian","Hetmanians, hetmantsi, Little Russians, Ukrainians"
+Region-Europe,"Lemko region, Lemkivshchyna","Lemkian, Lemk","Lemkos, Lemkians, Lemks"
+Region-Europe,Lancashire,Lancastrian,Lancastrians
+Region-Europe,Lapland,"Lapp, Saami","Lappish, Saamis"
+Region-Europe,León,Leonese,Leoneses
+Region-Europe,Lombardy,"Lombard, Lombardic",Lombards
+Region-Europe,Lorraine,Lorrainian,Lorrainians
+Region-Europe,Lusatia,Lusatian,Lusatians
+Region-Europe,"Majorca, Mallorca","Majorcan, Mallorcan","Majorcans, Mallorcans"
+Region-Europe,Mediterranean,Mediterranean,
+Region-Europe,Menorca,Menorcan,Menorcans
+Region-Europe,Moravia,Moravian,Moravians
+Region-Europe,Murcia,Murcian,Murcians
+Region-Europe,Navarre,Navarrese,Navarrese
+Region-Europe,Normandy,Norman,Normans
+Region-Europe,"Northumberland, Northumbria",Northumbrian,Northumbrians
+Region-Europe,Orkney,Orcadian,Orcadians
+Region-Europe,Palatinate,Palatine,Palatines
+Region-Europe,Peloponnese,Peloponnesian,Peloponnesians
+Region-Europe,Pennines,Pennine,
+Region-Europe,Picardy,Picard,Picards
+Region-Europe,Piedmont,Piedmontese,Piedmontese
+Region-Europe,Po River,Padane,
+Region-Europe,"Podolia, Podillia","Podolian, Podillian","Podolians, Podillians"
+Region-Europe,Pokuttia,Pokuttian,
+Region-Europe,"Polesia, Polissia","Polesian, Polissian","Poleshuks, Poleshchuks"
+Region-Europe,Pomerania,Pomeranian,Pomeranians
+Region-Europe,Provence,Provençal,
+Region-Europe,Pyrenees,Pyrenean,
+Region-Europe,Rhineland,Rhenish,Rhinelanders
+Region-Europe,"Right-bank Ukraine, Trans-Dnieper Ukraine","Trans-Dnieper, Trans-Dniprian",
+Region-Europe,Rus' (Ruthenia),"Rus', Ruthenian, Ruthene, Rus'ian, Russian","Rus', rusichi, Ruthenians, Ruthenes, East Slavs, Ukrainians, Belarusians, Russians"
+Region-Europe,Ruthenia (Carpathian Ruthenia),"Ruthenian, Ruthene","Ruthenians, Ruthenes, Rusyns, Rusnaks"
+Region-Europe,Samogitia,Samogitian,Samogitians
+Region-Europe,Sardinia,Sardinian,Sardinians
+Region-Europe,Savoy,Savoyard,Savoyards
+Region-Europe,Saxony,Saxon,Saxons
+Region-Europe,Scandinavia,Scandinavian,Scandinavians
+Region-Europe,Scania,Scanian,Scanians
+Region-Europe,Shetland,Shetland,Shetlanders
+Region-Europe,Sicily,Sicilian,Sicilians
+Region-Europe,Silesia,Silesian,Silesians
+Region-Europe,"Sloboda Ukraine, Slobozhanshchyna","Sloboda Ukrainian, Slobozhanian","Sloboda Cossacks, Sloboda Ukrainians, Slobozhanians"
+Region-Europe,Styria,Styrian,Styrians
+Region-Europe,Subcarpathia,Subcarpathian,
+Region-Europe,Thrace,Thracian,Thracians
+Region-Europe,Thuringia,Thuringian,Thuringians
+Region-Europe,Transcarpathia,Transcarpathia,
+Region-Europe,Transylvania,Transylvanian,Transylvanians
+Region-Europe,Tuscany,Tuscan,Tuscans
+Region-Europe,Tyrol,"Tyrolean, Tyrolese","Tyroleans, Tyrolese"
+Region-Europe,Umbria,Umbrian,Umbrians
+Region-Europe,Veneto,Venetian,Venetians
+Region-Europe,Volhynia,Volhynian,Volhynians
+Region-Europe,Wallachia,Wallachian,Wallachians
+Region-Europe,Wallonia,Walloon,Walloons
+Region-Europe,Westphalia,Westphalian,Westphalians
+Region-Europe,"Zaporizhzhia, Zaporozhian Ukraine",Zaporozhian,Zaporozhians
+Region-Europe,Zeeland,Zeeland,Zeelanders
+Region-US, Alabama,,Alabamian
+Region-US, Alaska,,Alaskan
+Region-US, American Samoa,,American Samoan
+Region-US, Arizona,,Arizonan
+Region-US, Arkansas,,Arkansan
+Region-US, California,,Californian
+Region-US, Colorado,,Coloradan
+Region-US, Connecticut,,Connecticuter
+Region-US, Delaware,,Delawarean
+Region-US, District of Columbia,,Washingtonian
+Region-US, Florida,,Floridian
+Region-US, Georgia,,Georgian
+Region-US, Guam,,Guamanian
+Region-US, Hawaii,,Hawaiian
+Region-US, Idaho,,Idahoan
+Region-US, Illinois,,Illinoisan
+Region-US, Indiana,,Hoosier
+Region-US, Iowa,,Iowan
+Region-US, Kansas,,Kansan
+Region-US, Kentucky,,Kentuckian
+Region-US, Louisiana,,Louisianian
+Region-US, Maine,,Mainer
+Region-US, Maryland,,Marylander
+Region-US, Massachusetts,,Massachusettsan
+Region-US, Michigan,,Michiganian
+Region-US, Minnesota,,Minnesotan
+Region-US, Mississippi,,Mississippian
+Region-US, Missouri,,Missourian
+Region-US, Montana,,Montanan
+Region-US, Nebraska,,Nebraskan
+Region-US, Nevada,,Nevadan
+Region-US, New Hampshire,,New Hampshirite
+Region-US, New Jersey,,New Jerseyan
+Region-US, New Mexico,,New Mexican
+Region-US, New York,,New Yorker
+Region-US, North Carolina,,North Carolinian
+Region-US, North Dakota,,North Dakotan
+Region-US, Northern Mariana Islands,,Mariana Islander
+Region-US, Ohio,,Ohioan
+Region-US, Oklahoma,,Oklahoman
+Region-US, Oregon,,Oregonian
+Region-US, Pennsylvania,,Pennsylvanian
+Region-US, Puerto Rico,,Puerto Rican
+Region-US, Rhode Island,,Rhode Islander
+Region-US, South Carolina,,South Carolinian
+Region-US, South Dakota,,South Dakotan
+Region-US, Tennessee,,Tennessean
+Region-US, Texas,,Texan
+Region-US, Utah,,Utahn
+Region-US, Vermont,,Vermonter
+Region-US, Virgin Islands,,Virgin Islander
+Region-US, Virginia,,Virginian
+Region-US, Washington,,Washingtonian
+Region-US, West Virginia,,West Virginian
+Region-US, Wisconsin,,Wisconsinite
+Region-US, Wyoming,,Wyomingite
+City,Aalborg,Aalborgenser,Aalborgenser
+City,Aarhus,Aarhusian,Aarhusian
+City,Aberdeen,Aberdonian,Aberdonian
+City,Abidjan,Abidjanais,Abidjanais
+City,Adana,Adanite,Adanite
+City,Adelaide,Adelaidean,Adelaidean
+City,Ahmedabad,Amdavadi,Amdavadi
+City,Aguascalientes,Hidrocálido,Hidrocálido
+City,Agde,Agathois,Agathois
+City,Aix-en-Provence,Aixois,Aixois
+City,Albany,Albanian,Albanian
+City,Albuquerque,Albuquerquean,Burqueño
+City,Aleppo,Aleppine,Aleppine
+City,Alexandria,Alexandrian,Alexandrine
+City,Almería,"Almerian, Almeriense, Urcitano","Almerian, Almeriense, Urcitano"
+City,Alpine,Alpinian,Alpinian
+City,Amalfi,Amalfitan,Amalfitan
+City,Amman,Ammani,Ammani
+City,Ammon,Ammonite,Ammonite
+City,Amparo,Amparense,Amparense
+City,Amsterdam,Amsterdammer,Amsterdammer
+City,Anchorage,Anchorageite,Anchorageite
+City,Andong,"Andong, Andongite",Andongite
+City,Ankara,Ankarite,Ankarite
+City,Angeles,Angelino,Angelino
+City,Angers,Anjou,Angevin
+City,Annapolis,Annapolitan,Annapolitan
+City,Antakya,"Antakyan, Antiochian","Antakyan, Antiochian"
+City,Antalya,Antalyan,Antalyan
+City,Aosta,"Aostan, Aostain","Aostan, Aostain"
+City,Aqaba,Aqabawi,Aqabawi
+City,Arequipa,"Arequipeño, Arequipeña","Arequipeño, Arequipeña"
+City,Armagh,Armachian,Armachian
+City,Armidale,Armidilian,Armidilian
+City,Ashdod,Ashdodi,Ashdodi
+City,Asheville,Ashevillain,Ashevillain
+City,Ashkelon,Ashkelonian,Ashkelonian
+City,Asmara,Asmaran,Asmaran
+City,Asunción,Asunceno,Asunceno
+City,Athens,"Athenian, Attic",Athenian
+City,Atlanta,Atlantien,Atlantan
+City,Auckland,Auckland,"Aucklander, Jafa"
+City,Austin,Austonian,Austinite
+City,Aydın,Aydinian,Aydinian
+City,Bacolod,Bacolodnon,Bacolodnon
+City,Baku,Bakuvian,Bakuvian
+City,Balıkesir,Balikesirian,Balikesirian
+City,Baltimore,Baltimorean,Baltimorean
+City,Bandung,Bandungite,Bandungite
+City,Bangalore,Bangalorean,Bangalorean
+City,Bangkok,Bangkokian,Bangkokian
+City,Barcelona,Barcelonian,Barcelonian
+City,Barisal,Barisali,"Barisali, Borishali, Barisailla, Borishailla"
+City,Basel,Basler,"Basler, Bebbi"
+City,Bath,Bathonian,Bathonian
+City,Baton Rouge,Baton Rougean,Baton Rougean
+City,Bedford,Bedfordian,Bedfordian
+City,Beersheba,Beersheban,Beersheban
+City,"Beijing, Peking","Beijingese, Pekinese","Beijinger, Pekinese"
+City,Beirut,Beiruti,Beiruti
+City,Belfast,"Belfast, Belfastian","Belfastie, Belfaster, Belfastian, Belfastite"
+City,Belford Roxo,Belforroxense,
+City,Belo Horizonte,Belo-Horizontino,Belo-Horizontino
+City,Belgrade,Belgradian,"Belgradian, Belgrader"
+City,Bellinzona,Bellinzonese,
+City,Benevento,Beneventan,Beneventan
+City,Bengeo,Bengean,Bengean
+City,Bergamo,Bergamasque,Bergamasque
+City,Berlin,"Berliner, Berlinese",Berliner
+City,Bern,Bernese,Bernese
+City,Béziers,Bitterois,Bitterois
+City,Birmingham,Brummie,Brummie
+City,Birmingham,Birminghamian,"Birminghamian, Birminghamster, Ham'r"
+City,Blackburn,Blackburnian,Blackburnian
+City,Blois,,Blesois
+City,Bnei Brak,Bnei Brakian,Bnei Brakian
+City,Bodrum,Bodrumian,Bodrumite
+City,Boise,Boisean,Boisean
+City,Bologna,Bolognese,Bolognese
+City,Bogotá,"Bogotano, Bogotana","Bogotano, Bogotana, Rolo, Rola"
+City,Bolgatanga,Guruŋa,Guruŋa
+City,Bolton,Boltonian,Boltonian
+City,Bordeaux,Bordelais,Bordelais
+City,Bossangoa,Bossangoan,Bossangoan
+City,Boston,Bostonian,Bostonian
+City,Bradford,Bradfordian,Bradfordian
+City,Brasilia,Brasiliense,Brasiliense
+City,Bratislava,Bratislavan,Bratislavan
+City,Bremen,Bremer,Bremer
+City,Brescia,Brescian,Brescian
+City,Brighton,Brightonian,Brightonian
+City,Brisbane,Brisbanian,"Brisbanite, Brisbanian, Brisvegan, Briswegian"
+City,Bristol,Bristolian,Bristolian
+City,Brussels,,"Bruxellois, Brusselaar, Brusseleir"
+City,Bucaramanga,"Bumangués, Bumanguésa, Santandereano, Santandereana","Bumangués, Bumanguésa, Santandereano, Santandereana"
+City,Bucharest,Bucharestian,Bucharester
+City,Budapest,Budapesti,Budapester
+City,City of Buenos Aires,Porteño,Porteño
+City,Buffalo,Buffalonian,Buffalonian
+City,Burlington,Burlingtonian,Burlingtonian
+City,Bursa,Bursanese,Bursanese
+City,Busan,"Busan, Busanian",Busanian
+City,Cádiz,"Gaditano,",Gaditano
+City,Calais,Calais,Calaisiens
+City,Cagayan de Oro,Cagayanon,Cagayanon
+City,Cairns,Cairnsite,Cairnsite
+City,Cairo,Cairene,Cairene
+City,Calgary,Calgarian,Calgarian
+City,Cali,Caleño,Caleño
+City,Cambridge,Cantabrigian,Cantabrigian
+City,Cambridge,Cantabrigian,Cantabrigian
+City,Campinas,Campineiro,Campineiro
+City,Campo Grande,Campo-grandense,campo-grandense
+City,Canberra,Canberran,Canberran
+City,Cape Town,Capetonian,Capetonian
+City,Caracas,Caraquenian,"Caraqueño, Caraqueña"
+City,Cardiff,Cardiffian,Cardiffian
+City,Carlisle,Carlislian,Carlislian
+City,Carson City,Carsonite,Carsonite
+City,Cartagena,"Cartagenero, Cartagenera","Cartagenero, Cartagenera"
+City,Carystus,Carystian,Christian
+City,Casper,Casperite,Casperite
+City,Castlecrag,Castlecragian,Cragman
+City,Cebu,Cebuano,Cebuano
+City,Changwon,"Changwon, Changwonian",Changwonian
+City,Charleston,Charlestonian,Charlestonian
+City,Charlotte,Charlottean,Charlottean
+City,Chelmsford,Chelmsfordian,Chelmsfordian
+City,Cheltenham,Cheltonian,Cheltonian
+City,Chennai,Chennaite,Chennaite
+City,Chester,Cestrian,Cestrian
+City,Chesterfield,Cestrefeldian,Cestrefeldian
+City,Cheyenne,Cheyenneite,Cheyenneite
+City,Chiasso,Chiassese,
+City,Chicago,Chicagoan,Chicagoan
+City,Chichester,Cicestrian,Cicestrian
+City,Chittagong,Chittagonian,"Chittagonian, Chottogrami, Chatigaiya, Sitainga, Chittagainga"
+City,Christchurch,Cantabrian,Cantabrian
+City,Cincinnati,Cincinnatian,Cincinnatian
+City,Cleveland,Clevelander,Clevelander
+City,Coimbatore,Coimbatoreian,Coimbatoreian
+City,Colchester,Colchester,Colcestrian
+City,Columbus,Columbusite,Columbusite
+City,Copenhagen,Copenhagener,Copenhagener
+City,Córdoba,"Cordobés, Cordobense",Cordobés
+City,Corinth,Corinthian,Corinthian
+City,Cork,Cork,"Corkonian, Leesider"
+City,Coventry,Coventrian,Coventrian
+City,Culiacán,Culichi,Cliché
+City,Cusco,Cusco,"Cusqueño , Cusqueña , Cuzqueño , Cuzqueña "
+City,"Kraków, Cracow","Krakovian, Cracovian","Krakovian, Cracovian"
+City,Curitiba,Curitibano,Curitibano
+City,Daegu,"Daegu, Daeguite",Daeguite
+City,Dalaman,Dalamanian,Dalamanian
+City,Dallas,Dallasite,Dallasite
+City,Da Lat,Dalatese,Dalatese
+City,Damascus,Damascene,Damascene
+City,Darwin,Darwinian,Darwinian
+City,Davao,Davaoeño,Davaoeño
+City,Delhi,Delhiite,Delhiite
+City,Denizli,Denizlian,Denizlian
+City,Denver,"Denver, Mile High",Denverite
+City,Derry,Derry,Derrian
+City,Detroit,Detroiter,Detroiter
+City,Devonport,Devonportian,Devonportian
+City,Dhaka,Dhakai,"Dhakai, Dhakaiya, Dhakaite"
+City,Diyarbakır,Diyarbakirian,Diyarbakirian
+City,Dresden,Dresdener,Dresdener
+City,Dublin,Dublin,"Dubliner, Dub"
+City,Dubai,Dubaite,Dubaite
+City,Duluth,Duluthian,Duluthian
+City,Dundee,Dundonian,Dundonian
+City,Dunedin,Dunedin,Dunedinite
+City,Durango,Durangoan,"Duranguense, Durangoan"
+City,Durban,Durban,Durbanite
+City,East Troy,East Trojan,East Trojan
+City,Edinburgh,Edinburgensian,"Embran, Edinburger"
+City,Edmonton,Edmontonian,Edmontonian
+City,Eilat,Eilatian,Eilatian
+City,Épalinges,Palinsard,Palinsard
+City,Epidaurus,Epidaurian,Epidaurian
+City,Erzurum,Erzurumian,Erzurumian
+City,Eskişehir,Eskishehirian,Eskishehirian
+City,Everett,Everettite,Everettite
+City,Exeter,Exonian,Exonian
+City,Famagusta,Salaminioti,Salaminioti
+City,Fargo,Fargoan,Fargoan
+City,Ferrara,Ferrarese,Ferrarese
+City,Fethiye,Fethiyennese,Fethiyennese
+City,Filettino,Filettinesi,Filettinesi
+City,Finchley,Finchleian,Finchleian
+City,Florence,Florentine,Florentine
+City,Fort Lauderdale,,"Fort Lauderdaler, Fort Lauderdalian"
+City,Fort Wayne,,Fort Wayner
+City,Fort Worth,,"Fort Worthian, Fort Worther"
+City,Foz do Iguaçu,Iguaçuense,Iguaçuense
+City,Frankfurt,Frankfurter,Frankfurter
+City,Fredericton,Frederictonian,Frederictonian
+City,Fresno,Fresnan,"Fresnan, Fresnoan, Fresnian"
+City,Galway,Galway,Galwegian
+City,Gaza,Gazan,Gazan
+City,Gaziantep,Antepian,Antepian
+City,Gibraltar,Gibraltarian,
+City,Geelong,Geelong,"Geelongite, Pivotonian"
+City,Geneva,"Genevan, Genevese, Genfer","Genevan, Genevese, Genfer"
+City,Genoa,Genoese,Genoese
+City,Germiston,Germistonian,Germistonian
+City,Ghent,Ghentian,Ghentian
+City,Glasgow,Glaswegian,"Glaswegian, Weegie"
+City,Godalming,Godhelmian,"Godhelmian, Godalminger"
+City,Gold Coast,Gold Coast,Gold Coaster
+City,Gosford,Gosford,Gosfordian
+City,Gothenburg,Gothenburger,Gothenburger
+City,Granada,"Granadino, Granadí, Iliberitano","Granadino, Iliberitano"
+City,Grand Rapids,Grand Rapidian,Grand Rapidian
+City,Graz,Grazer,Grazer
+City,Grenoble,Grenoblois,Grenoblois
+City,Guadalajara,Tapatío,Tapatío
+City,"Guangzhou, Canton",Cantonese,Cantonese
+City,Guayaquil,Guayaquilean,Guayaquilean
+City,Guelph,Guelphite,Guelphite
+City,Gumi,"Gumi, Gumite",Gumite
+City,Gwangju,"Gwangju, Gwangjuite",Gwangjuite
+City,Gyeongju,"Gyeongju, Gyeongjuite",Gyeongjuite
+City,The Hague,Haguer,Haguer
+City,Haifa,Haifan,Haifan
+City,Halifax,Haligonian,Haligonian
+City,Hamburg,Hamburgian,Hamburger
+City,Hamilton,Hamiltonian,Hamiltonian
+City,Hamilton,Hamiltonian,Hamiltonian
+City,Hanoi,Hanoian,Hanoian
+City,Hanover,Hanoverian,Hanoverian
+City,Harbin,Harbinite,Harbinite
+City,Harrisburg,Harrisburger,Harrisburger
+City,Hartlepool,Hartlepudlian,"Hartlepudlian, Monkey hanger"
+City,Hastings,Hastingite,Hastingite
+City,Hastings,Hastinger,Hastinger
+City,Hatay,Hatayan,Hatayan
+City,Havana,"Habanero , Habanera ","Habanero , Habanera "
+City,Helsinki,Helsinkian,Helsinkian
+City,Ho Chi Minh City,Saigonese,Saigoner
+City,Hobart,Hobartian,Hobartian
+City,Holon,Holonian,Holonian
+City,Hong Kong,"Hong Kong, Hongkongish, Hongkongese","Hongkonger, Hongkongish, Honger, Hongkongese, Honkey"
+City,Honolulu,Honolulan,Honolulan
+City,Houston,Houstonian,Houstonian
+City,Huelva,"Onubense, Huelveño","Onubense, Huelveño"
+City,Hyderabad,Hyderabadi,Hyderabadi
+City,Iloilo,Ilonggo,Ilonggo
+City,Incheon,"Incheon, Incheoner",Incheoner
+City,Indianapolis,Hoosier,"Hoosier, Indianapolitan"
+City,Invercargill,Invercargill,"Invercargillite, Invercargillonian"
+City,Inverness,Invernessian,Invernessian
+City,Ipoh,Ipohian,Ipohian
+City,Iqaluit,,"Iqalummiuq, Iqalummiut"
+City,Iriga,Irigueño,Irigueño
+City,Islamabad,Islamabadi,Islamabadian
+City,Itabira,"Itabirano , Itabirana ","Itabirano , Itabirana "
+City,Itapira,Itapirense,Itapirense
+City,Istanbul,Istanbulite,Istanbulite
+City,Izmir,"Izmirite, Izmirian","Izmirite, Izmirian"
+City,Izmit,Izmitite,Izmitite
+City,Jacksonville,"Jacksonvillian, Jaxon","Jacksonvillian, Jaxon"
+City,Jaén,"Jienense, Jaenés, Aurgitano","Jienense, Aurgitano"
+City,Jakarta,Jakartan,"Jakartanais, Jakartan"
+City,Jeonju,"Jeonju, Jeonjuite",Jeonjuite
+City,Jerusalem,"Jerusalemite, Yerushalmi","Jerusalemite, Yerushalmi"
+City,Johannesburg,Johannesburg,Johannesburger
+City,Joshua,Joshuan,"Joshuan, Joshuvian"
+City,Juba,Juban,Juban
+City,Juiz de Fora,Juiz-forano,Juiz-forano
+City,Juneau City/Borough,,Juneauite
+City,Kahramanmaraş,Marashian,Marashian
+City,Kandy,Kandian,Kandian
+City,Kaluga,Kaluzhanin,Kaluzhane
+City,Kansas City,Kansas Citian,"Kansas Citian, Kansas City, Kansan"
+City,Karachi,Karachiite,Karachiite
+City,Karpasia,Karpasias,Karpasias
+City,Kastoria,Kastorian,Kastorian
+City,Kayseri,Kayserian,Kayserian
+City,Kenosha,Kenoshan,Kenoshan
+City,Khulna,Khulna,"Khulnaiya, Khulnaite"
+City,"Kyiv, Kiev","Kyivan, Kievan","Kyian , Kyianyn , Kyianka "
+City,Kingston,Kingstonian,Kingstonian
+City,Kingston upon Hull,Hullensian,Hullensian
+City,Kitchener,Kitchenerite,Kitchenerite
+City,Kocaeli,Kocalian,Kocaelian
+City,Konya,Konyanite,Konyanite
+City,Knoxville,Knoxvillian,Knoxvillian
+City,Kuala Lumpur,KLite,KLite
+City,Kuching,Kuchingite,Kuchingite
+City,Lagos,Lagosian,Lagosian
+City,Lahore,Lahori,Lahori
+City,Lancaster,Lancastrian,Lancastrian
+City,La Paz,Paceño,Paceño
+City,Larnaka,Larnakade,Larnakade
+City,Las Vegas,Las Vegan,Las Vegan
+City,Laval,"Lavalois, Lavaloise","Lavalois, Lavaloise"
+City,Leeds,Leodensian,"Leodensian, Loiner"
+City,Leicester,Leicestrian,Chizzit
+City,Leipzig,Leipziger,Leipziger
+City,Legazpi,Legazpeño,Legazpeño
+City,León,Leonese,Leonese
+City,Lexington,Lexingtonian,Lexingtonian
+City,Liberal,Liberalite,"Liberarian, Libertarian, Liberalien"
+City,Ligao,Ligaoeño,Ligaoeño
+City,Lima,Limeño,Limeño
+City,Limassol,Lemesouti,Lemesouti
+City,Limerick,Limerick,"Limerickman, Shannonsider"
+City,Linz,Linzer,Linzer
+City,Lisbon,Lisboeta,"Lisboeta, Lisboner, Alfacinha"
+City,Liverpool,"Liverpudlian, Scouse","Liverpudlian, Scouser"
+City,Livorno,"Leghornese, Livornese","Leghornese, Livornese"
+City,Locarno,Locarnese,
+City,London,Londoner,Londoner
+City,Londrina,Londrinense,Londrinense
+City,Los Angeles,"Los Angeleno, Angeleno, Angeleño","Los Angeleno, Angeleno, Ángeleño"
+City,Louisville,Louisvillian,Louisvillian
+City,Lucca,Lucchese,Lucchesi
+City,Lugano,Luganese,
+City,Luton,Lutonian,Lutonian
+City,Lviv,"Lvivite, Lvivian, Leopolitan","Lvivite, Lvivian, Leopolitan, Lemberger, Ukrainian Lvivianyn , Lvivianka "
+City,"Lyon, Lyons","Lyonese, Lyonnais","Lyonese, Lyonnais"
+City,Macau,Macanese,Macanese
+City,Mackay,Mackayite,Mackayite
+City,Madrid,"Madrilenian, Madrileño","Madrilenian, Madrileño"
+City,Malacca,Malaccan,Malaccan
+City,Málaga,"Malagenean, Malagueño, Malacitano","Malagenean, Malagueño, Malacitano"
+City,Malatya,Malatyan,Malatyan
+City,Manaus,"Manauara, Manauense","Manauara, Manauense"
+City,Manchester,Mancunian,"Mancunian, Manc"
+City,Manila,"Manileño, Manilan",Manileño
+City,Manisa,Manisanian,Manisanian
+City,Mantua,Mantuan,Mantuan
+City,Marathon,Marathonian,Marathonian
+City,Mardin,Mardinian,Mardinian
+City,Marmaris,Marmarisian,Marmarisian
+City,Marseille,Marseillais,Marseillais
+City,Marshall,"Marshall, Marshallite",Marshallite
+City,Masbate,Masbateño,Masbateño
+City,Mersin,Mersinite,Mersinite
+City,Mecca,Meccan,Meccan
+City,Medellín,Paisa,Paisa
+City,Medina,Medinan,Medinan
+City,Megara,Megarian,Megarian
+City,Melbourne,Melburnian,"Melburnian, Melbournite"
+City,Memphis,Memphian,Memphian
+City,Mendrisio,"Mendrisiense, Mendrisiotto",
+City,Mersin,Mersinite,Mersinite
+City,Messina,Messinese,Messinese
+City,Mexico City,Capitalino,"Capitalino, Chilango, Defeño"
+City,Miami,Miamian,Miamian
+City,Michigan,Michiganian,"Michigander, Yooper"
+City,Middlesbrough,,Smoggie
+City,Milan,Milanese,Milanese
+City,Milan,,"Milanites, Milaner"
+City,Milwaukee,Milwaukeean,Milwaukeean
+City,Misrata,Misratan,Misratan
+City,Minneapolis,Minneapolitan,Minneapolitan
+City,Minot,Minotian,Minoter
+City,Mississauga,Mississaugan,
+City,Modena,Modenese,Modenese
+City,Mogi Guaçu,Guaçuano,Guaçuano
+City,Mogi Mirim,Mogimiriano,Mogimiriano
+City,Monaco,Monegasque,"Monegasque, Monacoan"
+City,Monrovia,Monrovian,Monrovian
+City,Monterrey,Regiomontano,Regiomontano
+City,Montevideo,Montevidean,"Montevideano , Montevideana "
+City,Montreal,Montrealer,"Montrealer, Montréalais"
+City,Moose Jaw,Moose Jaw,Moose Javians
+City,Morphou,Morfitis,Morfitis
+City,Moscow,Muscovite,Muscovite
+City,Muğla,Mughlanian,Mughlanian
+City,Mumbai,Mumbaikar,Mumbaikar
+City,Muncie,Munsonian,Munsonian
+City,Munich,Münchner,Münchner
+City,Mymensingh,Mymensinghi,"Mymensinghi, Mymensinghiya, Mymensinghiyo"
+City,Mysore,Mysorean,"Mysorean, Mysurinavaru, Mysuriga"
+City,Naga,Nagueño,Nagueño
+City,Nagoya,Nagoyan,Nagoyan
+City,Nanaimo,Nanaimoite,Nanaimoite
+City,"Nanjing, Nanking",Nankinese,Nankinese
+City,Napier,Napieran,"Napieran, Naperian"
+City,Naples,Neapolitan,Neapolitan
+City,Nashville,Nashvillian,Nashvillian
+City,Nassau,Nassuvian,Nassuvian
+City,Navarre,Navarrian,Navarrian
+City,Nazareth,Nazarene,Nazarene
+City,Nelson,Nelson,Nelsonian
+City,Netanya,"Netanyan, Netanian","Netanyan, Netanian"
+City,Newport,Newportonian,"Newportonian, Newporter"
+City,New Orleans,New Orleanian,"New Orleanian, New Orleaner, Yat"
+City,New York City,New Yorker,"New Yorker, Knickerbocker"
+City,The Bronx,Bronxite,"Bronxite, Bronxer"
+City,Brooklyn,Brooklynite,"Brooklynite, Trolley Dodger"
+City,Manhattan,Manhattanite,Manhattanite
+City,Queens,Queensite,Queensite
+City,Staten Island,Staten Islander,Staten Islander
+City,Newcastle,Novocastrian,Novocastrian
+City,Newcastle upon Tyne,"Novocastrian, Geordie","Novocastrian, Geordie"
+City,Nice,Niçois,Niçois
+City,Nicosia,Nicosian,Nicosian
+City,Norfolk,"Norfolker, Norfolkian","Norfolker, Norfolkian"
+City,Northampton,Northamptonian,Northamptonian
+City,Novara,Novarese,Novarese
+City,Nuremberg,"Nuremberger, Nürnberger","Nuremberger, Nürnberger"
+City,Oakbank,Oakbankian,Oakbankian
+City,Oakland,Oaklander,Oaklander
+City,Oamaru,"Oamaru, Oamaruvian",Oamaruvian
+City,Oaxaca,Oaxacan,Oaxaqueño
+City,"Odessa, Odesa","Odessan, Odessite, Odesan","Odessan, Odessite, Odesan, Ukrainian Odesyt , Odesytka "
+City,Oklahoma City,Oklahoma Cityan,Oklahoma Cityan
+City,Omak,Omakian,Omakian
+City,Ordu,Ordunite,Ordunite
+City,Orléans,Orléanais,Orléanais
+City,Osaka,Osakan,"Naniwakko, Osakan"
+City,Oshawa,Oshawian,Oshawian
+City,Oslo,Oslovian,"Oslovian, Osloer"
+City,Oswestry,Oswestrian,Oswestrian
+City,Ottawa,Ottawan,Ottawan
+City,Oxford,Oxonian,Oxonian
+City,Paddock Lake,Paddock Laker,Paddock Laker
+City,Padua,Paduan,Paduan
+City,Paducah,Paducahan,Paducahan
+City,Paita,"Paiteño , Paiteña ","Paiteño , Paiteña "
+City,Panaji,Panjimite,"Ponnjekar, Panjimite"
+City,Paphos,Paphian,Paphian
+City,Palermo,Palermitan,Palermitan
+City,Palmerston North,Palmerstonian,Palmerstonian
+City,Palmyra,Palmyrene,Palmyrene
+City,Paris,Parisian,Parisian
+City,Parma,Parmesan,Parmesan
+City,Penang,Penangite,Penangite
+City,Pescara,Pescarese,Pescarese
+City,Perth,"Perthite, Perthian, Perthling, Perthonality, Pertho, Perthie","Perthite, Perthian, Perthling, Perthonality, Perthette"
+City,Perugia,Perugian,Perugian
+City,Peterborough,Peterbourian,Peterbourian
+City,Philadelphia,Philadelphian,Philadelphian
+City,Phnom Penh,Phnom Penh,Phnom Penher
+City,Phoenix,"Phoenician, Phoenixer","Phoenician, Phoenixer"
+City,Pissouri,Pissouriti,Pissouriti
+City,Pisa,Pisan,Pisan
+City,Pittsburgh,Pittsburgher,"Pittsburgher, Yinzer"
+City,Plymouth,Plymothian,"Plymothian, Janner"
+City,Pohang,Pohang,Pohangite
+City,Polmont,Polmontarian,Polmontarian
+City,Pompeii,"Pompeian, Pompeiian","Pompeian, Pompeiian"
+City,Ponferrada,Ponferradian,Ponferradian
+City,Pont-à-Mousson,Mussipontain,M ussipontain
+City,Port Harcourt,"Harcourtian, Port Harcourtian","Harcourtian, Port Harcourtian"
+City,Port Moresby,Port Moresbian,Port Moresbian
+City,Porto,Portuense,"Portuense, Tripeiro"
+City,Podgorica,Podgorician,Podgorician
+City,Porto Alegre,Porto-Alegrense,Porto-Alegrense
+City,Porto Cheli,Porto-Cheliki,Porto-Cheliki
+City,Portland,Portlander,Portlander
+City,Portsmouth,Portsmouthian,Portsmouthian
+City,Prague,Praguer,Praguer
+City,Preston,Prestonian,Prestonian
+City,Pripyat,Pripyatin,Pripyatin
+City,Pristina,,"Prishtinali, Prishtina, Prištinci, Prištevci"
+City,Providence,Providentian,Providentian
+City,Provo,Provoan,Provoan
+City,Puebla,Poblano,Poblano
+City,Punta Arenas,Puntarenian,Puntarenian
+City,Pylos,Pylian,Pylian
+City,Quebec City,Québécois,Québécois
+City,Quito,Quitonian,"Quiteño , Quiteña "
+City,Rajshahi,Rajshahiyo,"Rajshahiya, Rajshahiyo"
+City,Radnor,Radnorian,Radnorian
+City,Raleigh,Raleighite,Raleighite
+City,Randall,Randallite,Randallite
+City,Rangpur City,Rangpuri,"Rongpuri, Rangpuri"
+City,Reading,Readingite,Readingite
+City,Red Deer,Red Deerian,Red Deerian
+City,Regina,"Regina, Reginan",Reginan
+City,Reno,Renoite,"Renoite, Riennese, Renal"
+City,Rethymno,Rethymnian,Rethymnian
+City,"Reims, Rheims","Rémois, Cornichon",Rémois
+City,Reykjavík,Reykjavikian,Reykjavikian
+City,Ribeirão Preto,Ribeirão Pretano,Ribeirão Pretano
+City,Richmond,Richmonder,Richmonder
+City,Riga,Rigan,Rigan
+City,Rio de Janeiro,Carioca,Carioca
+City,Rhodes,Rhodian,Rhodian
+City,Roanoke,Roanoker,Roanoker
+City,Rochester,Rochesterian,Rochesterian
+City,Rockhampton,Rockhampton,Rockhamptonite
+City,Rome,Roman,Roman
+City,Rotorua,Rotoruan,Rotoruan
+City,Rotterdam,Rotter,Rotterdammer
+City,Rouen,Rouennais,Rouennais
+City,Rye,Ryer,"Ryer, Mudhead"
+City,Sacramento,Sacramentan,Sacramentan
+City,Saint Helier,Saint-Helian,Saint-Helian
+City,Saint-Étienne,Stéphanois,Stéphanois
+City,Saint-Jude,Rocquevillois,Rocquevillois
+City,Saint Paul,"Saint Paulite, St. Paulite","Saint Paulite, St. Paulite"
+City,Saint Petersburg,Saint Petersburgian,"Saint Petersburgian, Saint Petersburger, Petersburger"
+City,Salem,Salemite,Salemite
+City,Salerno,Salernitan,Salernitan
+City,Salford,Salfordian,Salfordian
+City,Salt Lake City,Salt Lake,Salt Laker
+City,Salvador,Soteropolitano,Soteropolitano
+City,Salzburg,Salzburger,Salzburger
+City,Sambalpur,Sambalpuria,Sambalpuria
+City,Samsun,Samsunite,Samsunite
+City,San Antonio,San Antonian,San Antonian
+City,San Diego,San Diegan,San Diegan
+City,San Francisco,San Franciscan,San Franciscan
+City,San Jose,San Josean,San Josean
+City,Şanlıurfa,Urfanian,Urfanian
+City,Santa Barbara,Santa Barbarian,Santa Barbaran
+City,Santa Clarita,Santa Claritan,Santa Claritan
+City,Santa Cruz de la Sierra,Cruceño,Cruceño
+City,Santa Monica,Santa Monican,Santa Monican
+City,Santiago,"Santiaguinos , Santiaguinas ","Santiaguinos , Santiaguinas "
+City,São Carlos,"Sãocarlense, Carlopolitano","Sãocarlense, Carlopolitano"
+City,São Luís,Ludovicense,Ludovicense
+City,São Paulo,Paulistano,Paulistano
+City,Sapporo,,Sapporokko
+City,Sarajevo,Sarajevan,Sarajevan
+City,Saskatoon,"Saskatoon, Saskatonian","Saskatonian, Saskabusher"
+City,Sault Ste. Marie,"Sooite, Saultite",Soos
+City,Savannah,Savannian,Savannian
+City,Seattle,Seattleite,Seattleite
+City,Sendai,,Sendaikko
+City,Seoul,Seoulite,Seoulite
+City,Serra Negra,Serrano,Serrano
+City,Serres,Serrean,Serrean
+City,Seville,"Sevillian, Sevillano, Hispalense","Sevillian, Sevillano, Hispalense"
+City,Shanghai,Shanghainese,"Shanghainese, Shanghailander"
+City,Sheffield,,Sheffielder
+City,Shillong,,nong Shillong
+City,Shkoder,Shkodran,Shkodran
+City,Shrewsbury,Salopian,Salopian
+City,Side,Sidetan,Sidetan
+City,"Siena, Sienna","Sienese, Siennese","Sienese, Siennese"
+City,Silver Lake,Silver Laker,Silver Laker
+City,Singapore,Singaporean,Singaporean
+City,Skopje,Skopjan,Skopjan
+City,Slough,Sluff,Sluff
+City,Sofia,Sofian,Sofian
+City,Solihull,Silhillian,Silhillian
+City,Somers,Somersite,Somersite
+City,Sorrento,Sorrentine,Sorrentine
+City,Sorsogon,Sorsoganon,Sorsoganon
+City,Southampton,Sotonian,Sotonian
+City,Soweto,Sowetan,Sowetan
+City,Sparta,Spartan,Spartan
+City,Spokane,,Spokanite
+City,Spoleto,Spoletian,Spoletian
+City,St. Louis,St. Louisan,St. Louisan
+City,Stockholm,Stockholmer,Stockholmer
+City,Strasbourg,Strasbourgeois,Strasbourgeois
+City,Stuttgart,Stuttgarter,Stuttgarter
+City,Sunderland,,Mackem
+City,Sunshine Coast,Sunshine Coast,Sunshine Coaster
+City,Swansea,Jack@,Jack@
+City,Swindon,Swindonian,Swindonian
+City,Sydney,,Sydneysider
+City,Sylhet,Sylheti,"Sylheti, Siloti, Sileti"
+City,Syracuse,Syracusan,Syracusan
+City,Syracuse,Syracusian,Syracusian
+City,Tabaco,Tabaqueño,Tabaqueño
+City,Tacna,"Tacneño , Tacneña ","Tacneño , Tacneña "
+City,Tacoma,Tacoman,Tacoman
+City,Tallahassee,Tallahasseean,Tallahasseean
+City,Tallinn,Tallinner,Tallinner
+City,Tampa,"Tampan, Tampanian, Tampeño","Tampan, Tampanian, Tampeño , Tampeña "
+City,Tartu,Tartuan,Tartuan
+City,Taranto,"Tarantine, Tarentine","Tarantine, Tarentine"
+City,Tasmania,"Tasman, Tasmanian","Tasmanian, Taswegian"
+City,Taunton,Tauntonian,Tauntonian
+City,Tauranga,Taurangan,"Taurangian, Taurangan"
+City,Tbilisi,Tbilisian,"Tbilisian, Tbiliselebi"
+City,Tehran,"Tehrani, Tehranis[circular reference]",Tehrani
+City,Tekirdağ,Tekirdanian,Tekirdaninan
+City,Tel Aviv,Tel Avivian,"Tel Avivi, Tel Avivian"
+City,Thebes,Theban,Theban
+City,Thessaloniki,Thessalonian,Thessalonian
+City,Thunder Bay,,Thunderbite
+City,Timaru,"Timaru, Timaruvian",Timaruvians
+City,Tirana,Tiranas,Tirons
+City,Tokyo,,"Edokko, Tokyoite"
+City,Toowoomba,Toowoomban,Toowoomban
+City,Toronto,Torontonian,Torontonian
+City,Toulouse,Toulousian,Toulousian
+City,Tournai,Tournaisian,Tournaisian
+City,Townsville,Townsvillian,Townsvillian
+City,Trabzon,"Trabzonian, Trebizonian, Trapezian, Trapezuntine","Trabzonian, Trebizonian, Trapezian, Trapezuntine"
+City,Traverse City,Traverse Citian,Traverse Citian
+City,Trevor,Trevorite,Trevorite
+City,Trent,Tridentine,Tridentine
+City,Trieste,Triestine,Triestine
+City,Tripoli,Tripolitan,Tripolitan
+City,Tripoli,Tripolitano,Tripolitano
+City,Trois-Rivières,Trois-rivieran,Trois-rivieran
+City,Trois-Rivières,"Trifluvien, Trifluvienne, Trifluvian","Trifluvien, Trifluvienne, Trifluvian"
+City,Tucson,Tucsonian,"Tucsonian, Tucsonan"
+City,Tulsa,Tulsan,Tulsan
+City,Turin,Turinese,Turinese
+City,Twin Lakes,Twin Laker,Twin Laker
+City,Tyre,Tyrian,Tyrian
+City,Uberlândia,Uberlandense,Uberlandense
+City,Ulsan,"Ulsan, Ulsanian",Ulsanian
+City,Valencia,Valencian,Valencian
+City,Valladolid,"Vallisoletano, Pucelano, Pinciano","Vallisoletano, Pucelano, Pinciano"
+City,Valparaíso,"Porteño , Porteña ","Porteño , Porteña "
+City,Van,Vanian,Vanian
+City,Vancouver,Vancouverite,Vancouverite
+City,Vancouver,Vancouverite,Vancouverite
+City,Venice,Venetian,Venetian
+City,Veracruz,Veracruzano,"Veracruzano, Jarocho"
+City,Verona,Veronese,Veronese
+City,Vicenza,Vicentine,Vicentine
+City,Vichy,Vichyssois,Vichyssois
+City,Victoria,Victorian,Victorian
+City,Vienna,"Viennese, Wiener","Viennese, Wiener"
+City,Villanova,Villanovan,Villanovan
+City,Ville Platte,Ville Platian,Ville Platian
+City,Vilnius,Vilnian,Vilnian
+City,Vizag,Vizagite,Vizagite
+City,Waco,Wacoite,Wacoite
+City,Warangal,Warangalite,Warangalite
+City,Warsaw,Varsovian,Varsovian
+City,Washington,Washingtonian,Washingtonian
+City,Waterbury,Waterburian,Waterburian
+City,Waterford,Waterfordian,"Waterfordian, Déise, Suirsider"
+City,Waterloo,Waterluvian,Waterluvian
+City,Wellington,"Wellington, Wellingtonian",Wellingtonian
+City,Wheatland,Wheatlander,Wheatlander
+City,Whitehorse,"Whitehorser, Whitehorsian","Whitehorser, Whitehorsian"
+City,Wichita,Wichitan,Wichitan
+City,Wilmot,Wilmotter,Wilmotter
+City,Winchester,,Wintonian
+City,Winnipeg,,"Winnipegger, Winnipeger"
+City,Wolverhampton,,Wulfrunian
+City,Wythenshawe,Wythenshavian,Wythenshavian
+City,Xalapa,Xalapeño,Xalapeño
+City,Xanthi,Xanthian,Xanthian
+City,Yellowknife,Yellowknifer,Yellowknifer
+City,Yeosu,"Yeosu, Yeosuite",Yeosuite
+City,Yerevan,Yerevantsi,Yerevantsi
+City,Yogyakarta,"Yogyakartan, Jogjan","Yogyakartan, Jogjan"
+City,Yokohama,Yokohaman,Hamakko
+City,Zacatecas,Zacatecan,Zacatecano
+City,Zagreb,Zagrebian,"Zagreber, Zagrebian"
+City,Zamboanga,Zamboangueño,Zamboangueño
+City,Zaragoza,"Zaragozan, Saragossan","Zaragoazan, Saragossan"
+City,Zonguldak,Zonguldaki,Zonguldakian
+City,Zintan,Zintani,Zintani
+City,Zurich,"Zuricher, Zürcher","Zuricher, Zürcher"
+City,Zwolle,Zwollenaar,Zwollenaar
