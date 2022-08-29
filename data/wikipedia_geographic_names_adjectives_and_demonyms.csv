@@ -15,7 +15,7 @@ Continent,South America,South American,South Americans
 Continent,Antarctica,Antarctic,Antarcticans
 Continent,Oceania,Oceanian,Oceanians
 Continent,Australasia,Australasian,Australasians
-Continent,Australiaa,Australian,Australians
+Continent,Australia,Australian,Australians
 Continent,Zealandia,Zealandian,Zealandians
 Continent,Pacific Islands,Pacific Islands,Pacific Islanders
 Region-Africa,Cyrenaica,Cyrene,Cyrenes
@@ -27,7 +27,7 @@ Region-Africa,Nubia,Nubian,Nubians
 Region-Africa,Sahara,Saharan,Sahrawi
 Region-Africa,Zanzibar,Zanzibar,Zanzibaris
 Region-America,Acadia,Acadian,Acadians
-Region-America,"Acadiana, Cajun Country",Acadian,Cajuns
+Region-America,"Acadiana, Cajun Country","Acadian, Cajun",Cajuns
 Region-America,Aleutian Islands,"Aleut, Aleutian","Aleuts, Aleutians"
 Region-America,Amazon river and Amazon region,Amazonian,
 Region-America,Andes,Andean,
@@ -42,13 +42,12 @@ Region-America,Maritimes,Maritime,Maritimers
 Region-America,Minas Gerais,Mineiro,Mineiros
 Region-America,New England,New England,New Englanders
 Region-America,Patagonia,Patagonian,Patagonians
-Region-America,Parana (state),Paranaense,Paranaenses
-Region-America,Rio de Janeiro (state),Fluminense,Fluminenses
+Region-America,Parana,Paranaense,Paranaenses
+Region-America,Rio de Janeiro,Fluminense,Fluminenses
 Region-America,Rio Grande do Sul,"Sul-rio-grandense, Gaúcho",Gaúchos
 Region-America,St. Lawrence River,Laurentian,
 Region-America,Santa Catarina,"Catarinense, Barriga-verde","Catarinenses, Barrigas-verdes"
-Region-America,São Paulo (state),Paulista,Paulistas
-Region-America,South (U.S.),Southern,Southerners
+Region-America,São Paulo,Paulista,Paulistas
 Region-America,Upper Peninsula of Michigan,,Yoopers
 Region-America,West Indies,West Indian,West Indians
 Region-Asia,Bali,Balinese,Balinese
@@ -183,8 +182,8 @@ Region-Europe,Provence,Provençal,
 Region-Europe,Pyrenees,Pyrenean,
 Region-Europe,Rhineland,Rhenish,Rhinelanders
 Region-Europe,"Right-bank Ukraine, Trans-Dnieper Ukraine","Trans-Dnieper, Trans-Dniprian",
-Region-Europe,Rus' (Ruthenia),"Rus', Ruthenian, Ruthene, Rus'ian, Russian","Rus', rusichi, Ruthenians, Ruthenes, East Slavs, Ukrainians, Belarusians, Russians"
-Region-Europe,Ruthenia (Carpathian Ruthenia),"Ruthenian, Ruthene","Ruthenians, Ruthenes, Rusyns, Rusnaks"
+Region-Europe,Rus',"Rus', Ruthenian, Ruthene, Rus'ian, Russian","Rus', rusichi, Ruthenians, Ruthenes, East Slavs, Ukrainians, Belarusians, Russians"
+Region-Europe,Ruthenia,"Ruthenian, Ruthene","Ruthenians, Ruthenes, Rusyns, Rusnaks"
 Region-Europe,Samogitia,Samogitian,Samogitians
 Region-Europe,Sardinia,Sardinian,Sardinians
 Region-Europe,Savoy,Savoyard,Savoyards
@@ -369,7 +368,7 @@ City,Buffalo,Buffalonian,Buffalonian
 City,Burlington,Burlingtonian,Burlingtonian
 City,Bursa,Bursanese,Bursanese
 City,Busan,"Busan, Busanian",Busanian
-City,Cádiz,"Gaditano,",Gaditano
+City,Cádiz,"Gaditano",Gaditano
 City,Calais,Calais,Calaisiens
 City,Cagayan de Oro,Cagayanon,Cagayanon
 City,Cairns,Cairnsite,Cairnsite
@@ -1168,7 +1167,7 @@ Country,Tuvalu,Tuvaluan,Tuvaluans
 Country,Uganda,Ugandan,Ugandans
 Country,Ukraine,Ukrainian,Ukrainians
 Country,United Arab Emirates,"Emirati, Emirian, Emiri","Emiratis, Emirians, Emiri"
-Country,United Kingdom of Great Britain and Northern Ireland,"British, United Kingdom, UK","Brits, Britons, British people"
+Country,United Kingdom, Great Britain, Northern Ireland,"British, United Kingdom, UK","Brits, Britons, British people"
 Country,United States of America,"American, United States, U.S.",Americans
 Country,Uruguay,Uruguayan,Uruguayans
 Country,Uzbekistan,"Uzbekistani, Uzbek","Uzbekistanis, Uzbeks"
